@@ -1,8 +1,9 @@
 unplu.gg PHP class
 ==================
 
-A PHP class to send and retrieve data from unplu.gg Energy Monitoring websitem
+A PHP class to send and retrieve data from unplu.gg Energy Monitoring website
 
+http://unplu.gg/api
 
 ## Example
 ```php
